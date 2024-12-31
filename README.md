@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parmeet Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 - 🔭 I’m currently working on **Slot Machine Game App**
 
 - 🌱 I’m currently learning **SwiftUI**
